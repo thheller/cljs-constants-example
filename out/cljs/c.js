@@ -1,3 +1,3 @@
+console.log(nf);
 console.log(of);
-console.log(pf);
-console.log(qf);
+console.log(rf);
